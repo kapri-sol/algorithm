@@ -21,3 +21,7 @@
 ### [05. 피보나치 수 5 - 10870](https://www.acmicpc.net/problem/10870)
 
 `boj/basic/fibonachi.py`
+
+### [06. 일곱 난쟁이 - 2309](https://www.acmicpc.net/problem/2309)
+
+`boj/basic/seven-dwarfs.py`
