@@ -13,3 +13,7 @@
 ### [03. 최소, 최대 - 10818](https://www.acmicpc.net/problem/10818)
 
 `boj/basic/min-max.py`
+
+### [04. 지능형 기차 2 - 2460](https://www.acmicpc.net/problem/2460)
+
+`boj/basic/smart-train2.py`
