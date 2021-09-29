@@ -17,3 +17,7 @@
 ### [04. 지능형 기차 2 - 2460](https://www.acmicpc.net/problem/2460)
 
 `boj/basic/smart-train2.py`
+
+### [05. 피보나치 수 5 - 10870](https://www.acmicpc.net/problem/10870)
+
+`boj/basic/fibonachi.py`
