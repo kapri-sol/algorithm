@@ -29,3 +29,7 @@
 ### [07. 최대공약수와 최소공배수 - 2609](https://www.acmicpc.net/problem/2609)<실버 5>
 
 `boj/basic/gcf-and-lcm.py`
+
+### [08. N번째 큰 수 - 2693](https://www.acmicpc.net/problem/2693)<실버 5>
+
+`boj/basic/biggest-N.py`
