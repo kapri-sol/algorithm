@@ -33,3 +33,7 @@
 ### [08. N번째 큰 수 - 2693](https://www.acmicpc.net/problem/2693)<실버 5>
 
 `boj/basic/biggest-N.py`
+
+### [09. 소수 - 2581](https://www.acmicpc.net/problem/2581)<실버 5>
+
+`boj/basic/find-prime.py`
