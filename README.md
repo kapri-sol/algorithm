@@ -38,10 +38,12 @@
 
 `boj/basic/find-prime.py`
 
-
-
 ## 기초 2
 
 ### [01. 연산자 끼워넣기 - 14888](https://www.acmicpc.net/problem/14888)<실버 1>
 
-`boj/basic/operator.py`
+`boj/basic2/operator.py`
+
+### [02. 스택의 응용 - 2504](https://www.acmicpc.net/problem/2504)<실버 2>
+
+`boj/basic2/bracket.py`
