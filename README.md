@@ -37,3 +37,11 @@
 ### [09. 소수 - 2581](https://www.acmicpc.net/problem/2581)<실버 5>
 
 `boj/basic/find-prime.py`
+
+
+
+## 기초 2
+
+### [01. 연산자 끼워넣기 - 14888](https://www.acmicpc.net/problem/14888)<실버 1>
+
+`boj/basic/operator.py`
