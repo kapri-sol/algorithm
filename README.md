@@ -47,3 +47,7 @@
 ### [02. 스택의 응용 - 2504](https://www.acmicpc.net/problem/2504)<실버 2>
 
 `boj/basic2/bracket.py`
+
+### [03. 빗물 - 14710](https://www.acmicpc.net/problem/14719)<골드 5>
+
+`boj/basic2/rain.py`
