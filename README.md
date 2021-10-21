@@ -51,3 +51,7 @@
 ### [03. 빗물 - 14710](https://www.acmicpc.net/problem/14719)<골드 5>
 
 `boj/basic2/rain.py`
+
+### [04. 수들의 합 - 14710](https://www.acmicpc.net/problem/2003)<실버 3>
+
+`boj/basic2/sum-of-num.py`
