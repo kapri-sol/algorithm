@@ -55,3 +55,7 @@
 ### [04. 수들의 합 - 14710](https://www.acmicpc.net/problem/2003)<실버 3>
 
 `boj/basic2/sum-of-num.py`
+
+### [05. 멀티탭 스케줄링 - 1700](https://www.acmicpc.net/problem/1700)<실버 3>
+
+`boj/basic2/multi-outlet.py`
